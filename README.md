@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет, я AmiRus-C! 👋
 
-<!--
-**AmiRus-C/AmiRus-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Обо мне:
+- 🤖 Разрабатываю продвинутого самообучающегося [ИИ-бота для Minecraft](https://github.com) на JavaScript.
+- 🎮 Увлекаюсь геймдевом, автоматизацией и искусственным интеллектом.
 
-Here are some ideas to get you started:
+### 🛠️ Технологии и инструменты:
+![JavaScript](https://shields.io)
+![NodeJS](https://shields.io)
+![Git](https://shields.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Моя статистика GitHub:
+<p align="left">
+  <img src="https://vercel.app" alt="Статистика AmiRus-C" height="180px"/>
+  <img src="https://vercel.app" alt="Языки AmiRus-C" height="180px"/>
+</p>
