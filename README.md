@@ -14,3 +14,7 @@
   <img src="https://vercel.app" alt="Статистика AmiRus-C" height="180px"/>
   <img src="https://vercel.app" alt="Языки AmiRus-C" height="180px"/>
 </p>
+
+### 📈 Активность:
+![AmiRus-C's github activity graph](https://vercel.app)
+![Views](https://komarev.com)
