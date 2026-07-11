@@ -1,4 +1,5 @@
 # Hi there! I'm AmiRus-C 👋
+![Views](https://komarev.com)
 
 <p align="left">
   <strong>Developer passionate about automation, game development, and artificial intelligence.</strong>
@@ -10,12 +11,12 @@
 
 <table>
   <tr>
-    <td>
+    <td width="20%">
       <p align="center">
         <br>🎮<br><strong>Minecraft Learning Bot</strong><br><br>
       </p>
     </td>
-    <td>
+    <td width="80%">
       An advanced self-learning bot for Minecraft (v1.16.5) built with Node.js. Powered by a Q-Learning reinforcement algorithm, it features a dynamic personality system, evolving emotions, and real-time world interaction capabilities.
       <br><br>
       🔗 <strong><a href="https://github.com">Explore the repository →</a></strong>
@@ -34,11 +35,16 @@
 
 ---
 
-### 📈 Development Highlights
+### 📈 Activity & Stats
 
-* 💻 Focuses on clean, well-structured, and documented code architecture.
-* ⚙️ Implements modular design (separated chat, personality, and world interaction systems).
-* 🛡 Prioritizes security and best practices (properly configured `.gitignore` for secret management).
+<p align="left">
+  <img src="https://vercel.app" alt="AmiRus-C's github activity graph" width="100%" />
+</p>
+
+<p align="left">
+  <img src="https://vercel.app" alt="AmiRus-C's GitHub Stats" height="160px" />
+  <img src="https://vercel.app" alt="AmiRus-C's Top Languages" height="160px" />
+</p>
 
 ---
 
